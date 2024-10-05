@@ -1,4 +1,4 @@
-As stated in the description, this respository contains files from my project for my **Modelling and Simulation in Physics course in Spring 2024** utilising COMSOL. My project was comparing the velocity and pressure of water in a pipe with and without a conical end.
+As stated in the description, this repository contains files from my project for my **Modelling and Simulation in Physics course in Spring 2024** utilising COMSOL. My project was comparing the velocity and pressure of water in a pipe with and without a conical end.
 
 - **Comsol_Files** contains the two files of the pipe with and without a cone end.
 
